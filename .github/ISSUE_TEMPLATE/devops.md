@@ -1,6 +1,7 @@
 ---
 name: DevOps
 title: "[OPS] "
+about: "Use this for help with the workflow of this project including development, build, and deployment problem"
 labels: enhancement
 assignees: ""
 ---
