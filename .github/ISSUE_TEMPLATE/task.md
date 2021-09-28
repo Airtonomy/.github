@@ -2,7 +2,7 @@
 name: Task
 about: A task that doesn't involve a code change
 title: "[TASK] "
-labels: ''
+labels: 'type: task'
 assignees: ''
 
 ---
