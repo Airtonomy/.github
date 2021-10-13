@@ -1,19 +1,7 @@
----
-name: Pull Request
-about: Code to marge that fixes an issue
-title: "[PR]"
-labels: ''
-assignees: ''
-
----
-
-**Airtonomy Pull Request**
-
-## Description
+**Description**
 <!--- Creating a pull request allows you to merge code from a separate branch, usually to the main branch. -->
 <!--- Make sure to link the issue you are fixing with this Pull Request using the "Linked Issues" dropdown on the right panel. -->
-<!--- Replace the title above with a summary of your changes -->
-<!--- Describe your changes in detail here -->
+A summary of the changes you made.
 
 **For Developers**
 Make sure that you have done all of the steps necessary to merge a PR:
