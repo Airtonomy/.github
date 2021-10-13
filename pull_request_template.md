@@ -7,8 +7,10 @@ A summary of the changes you made.
 Make sure that you have done all of the steps necessary to merge a PR:
 - [ ] My code follows the coding style of this project.
 - [ ] I have updated the documentation accordingly.
-- [ ] I have updated tests accordingly.
+- [ ] I have updated and created tests accordingly.
 - [ ] My PR is linked to an issue.
+- [ ] The PR fully addresses the issue, or follow up issues are created
+- [ ] CI Passes, and one reviewer has approved.
 
 **For Reviewers**
 - [ ] Are the tests that need to be updated changed?
