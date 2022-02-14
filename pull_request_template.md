@@ -10,7 +10,6 @@ Make sure that you have done all of the steps necessary to merge a PR:
 - [ ] I have updated and created tests accordingly.
 - [ ] My PR is linked to an issue.
 - [ ] The PR fully addresses the issue, or follow up issues are created.
-- [ ] CI Passes, and one reviewer has approved.
 
 **For Reviewers**
 - [ ] Are the tests that need to be updated changed?
