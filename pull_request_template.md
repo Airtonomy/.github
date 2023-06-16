@@ -6,6 +6,7 @@ Make sure that you have done all of the steps necessary to merge a PR:
 - [ ] My code follows the coding style of this project.
 - [ ] I have updated the documentation accordingly.
 - [ ] I have updated the repo CHANGELOG.MD
+- [ ] If changes were made to the database, is it compliant with cloud-eddm ADR 036?
 - [ ] I have updated and created tests accordingly.
 - [ ] My PR is linked to an issue.
 - [ ] The PR fully addresses the issue, or follow up issues are created.
